@@ -86,3 +86,6 @@ project_three.src = 'img/projects/proyecto3.png';
 
 const certificate = document.getElementById('certificate4');
 certificate.src = 'img/certificates/certificado4.PNG'
+
+const bv = document.getElementById("loom-companion-mv3");
+
