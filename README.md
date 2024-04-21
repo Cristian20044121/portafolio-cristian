@@ -10,17 +10,3 @@
 
 - **Sobre Mí**: Obtén más información sobre mi trayectoria, experiencia y objetivos profesionales.
 
-## Tecnologías Utilizadas
-
-- HTML5
-- CSS3 (con Tailwind CSS)
-- Figma
-- Balsamiq
-- JavaScript
-- React
-- Node js
-- Express
-- NPM
-- Mongo DB
-- Github
-- Git
